@@ -1,1 +1,1 @@
-# coursera project
+# a resposive web page

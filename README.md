@@ -1,1 +1,0 @@
-# a resposive web page
